@@ -18,7 +18,7 @@ fn main() {
         }
     }
     println!("Total nice strings: {}", total_nice_string);
-    println!("Total nice strings: {}", total_better_nice_string);
+    println!("Total better nice strings: {}", total_better_nice_string);
 }
 
 mod better_special_string {
